@@ -7,3 +7,5 @@ Install dependencies :- npm install
 
 
 Start the application :- npm run dev
+
+Node.js version-20.11.0
